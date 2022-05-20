@@ -1,0 +1,71 @@
+  
+
+  Patrick The Typing Mole is a game that focuses on teaching children (or even adults) to hone their typing skills in a fun and playful setting.
+
+
+
+   *** STORY ***
+
+   The player takes on the role of the adventurous Mr. Patrick Mole. After hearing rumours of an invaluable treasure hidden deep beneath the grounds of Mt. Key,
+   Patrick accepted the challenge and started his quest to retrieve it. He went to the base of the mountain, took out his beloved pickaxe and started digging.
+   Some time passed, before Patrick found himself at the entrance of a strange maze. Each tile on the floor was engraved with one or multiple letters,
+   clustering together into words. When Patrick tried to step on the first tile, a sharp needle shot out of the wall and missed him by a hair.
+   Patrick let out a surprised 'A', after which he quickly stepped back. When Patrick examined the tile once more, the sole letter A engraved on it was now glowing.
+   Intrigued by the change, but still careful because of the surprise earlier, he tried to move his foot on the tile once more. This time, nothing happened.
+   Patrick finally realized how the dungeon worked: he had to say the engraved words on the tiles out loud.
+   Many moles would falter at this challenge, but not Patrick. He was ready for this.
+   As the most literate mole in the world, this maze wouldn't stop him from reaching the final, much-desired treasure!
+
+
+
+   *** START OF THE GAME ***
+
+   When starting up the game, a menu with 3 options appears. You can choose between starting the game, opening the rulebook and quitting the game.
+   In order to start the game, press the "Start typing" button.
+   There are a total of 3 different levels:
+                   o       Easy: The words vary between 1 and 3 letters. Additionally, the path to the exit is marked for easy navigation. 
+					Aimed at players with less typing experience.
+                   o       Medium: The words vary between 4 and 5 letters. The maze is bigger and more challenging than easy.
+                   o       Hard: The words are greater than 5 letters. The maze is bigger and more challenging than medium.
+
+
+
+   *** GAMEPLAY ***
+
+   After choosing a level, the game will start. At the bottom right of the screen, the four keyboard arrows (up, right, down, left) will appear.
+   Each arrow is linked to a word. If you type one of the visible words correctly, Mr. Patrick Mole will move in the direction to which that word was linked.
+   The goal of this game is to move through the maze by typing these words correctly and reaching the finish, where Mr. Patrick Mole will find the treasure.
+
+   If you make a mistake, the number of errors will increase. This is shown on the top right of the screen.
+   Additionally, you will have to retype the word from scratch.
+   There are a few notes here:
+                  o       You can switch between different words without penalty. For example, if you're typing "north" to go up and you've already typed "no",
+                  			but you decide you'd rather go down by typing "south", you can simply type the letter s. 
+                  			You will lose the progress you had ("no"), and instead will start a new sequence with "s".
+                  o       Typing a word that goes in the direction of a wall is possible
+                  o       Completing a word that goes in the direction of a wall won't give any errors, however Mr. Patrick Mole won't move and the typing bar will color orange.
+
+   It is possible to return to a tile you've already visited. If you took a wrong turn or ended up at a dead end, you can easily retrace your steps!
+   You won't lose points for this, but of course it will take more time to reach the end if you get lost!
+
+
+
+   *** BUTTONS ***
+
+   There are a few buttons on the bottom of the screen.
+   On the bottom left there's a "back"-button, which will bring you back to the level choice menu.
+   Beware: If you press this button, you will lose all your progress in the current dungeon!
+   The bottom middle button is the sound button. It will mute/unmute the music playing on the background.
+   Finally, the bottom right "quit"-button will close the entire game.
+
+
+
+   *** END ***
+
+   When you reach the end, you will receive a score. This score is determined by the number of mistakes you've made, the number of words you've typed and the
+   amount of time you needed to finish the game. This score will be compared to other players' scores and if you did well, you will see your result on the leaderboard!
+
+   Help Mr. Patrick Mole find the biggest treasure in MoleLand, and maybe he'll share a part of it with you. What's in the treasure?
+   You'll have to finish the game to find that out!
+   
+   Good luck on your journey!

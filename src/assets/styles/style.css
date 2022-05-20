@@ -1,0 +1,187 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('../fonts/PressStart2P-vaV7.ttf');
+}
+
+.root{
+    -fx-font-family:'Press Start 2P';
+}
+
+.title {
+    -fx-text-fill: white;
+}
+
+.label-highscore {
+    -fx-text-fill: white;
+}
+
+.navigation-pane{
+     -fx-padding: 10px 10px 0px 10px;
+ }
+
+/*Contains style from rules*/
+.rules-text{
+    -fx-font-family: Arial;
+}
+
+.rules-title{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 20px 70px 20px 10px;
+}
+
+.rules-header{
+    -fx-padding: 10px 10px 20px 10px;
+    -fx-alignment: center;
+}
+
+.rules-top-layout{
+    -fx-padding: 40px 40px 30px 40px;
+}
+
+/*Contains style from buttons*/
+.button {
+    -fx-background-color: rgba(255,255,255,0.7);
+    -fx-text-fill: black;
+}
+
+.button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+
+
+.button-easy, .label-easy{
+     -fx-background-color: rgba(0, 255, 0, .50);
+}
+
+.button-easy:hover{
+    -fx-border-color: #00FF00;
+    -fx-text-fill:#00FF00;
+}
+
+.button-medium, .label-medium{
+    -fx-background-color: rgba(255, 165, 0, .50);
+}
+
+.button-medium:hover{
+    -fx-border-color: #FFa500;
+    -fx-text-fill: #FFa500;
+}
+
+.button-hard, .label-hard{
+    -fx-background-color: rgba(255, 0, 0, .50);
+}
+
+.button-hard:hover{
+    -fx-border-color: #FF0000;
+    -fx-text-fill: #FF0000;
+}
+
+.gamemode-button, .highscore-button{
+    -fx-border-color: black;
+}
+
+.gamemode-button, .game-tile{
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.gamemode-button:hover{
+    -fx-border-color: black;
+}
+
+/*Contains style from gameinfo*/
+.support-text{
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+
+.faults-text, .timer-text{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.current-text{
+    -fx-text-fill: rgba(255,255,255,1);
+    -fx-font-weight: bold;
+    -fx-font-family: Arial;
+}
+
+.bg-black{
+    -fx-background-color: black;
+}
+
+.bg-red{
+    -fx-background-color: #FF0000;
+}
+
+.bg-orange{
+    -fx-background-color: #FFa500;
+}
+
+.bg-green{
+    -fx-background-color: #00FF00;
+}
+
+.keyboard-labels{
+    -fx-background-color: rgba(255,255,255,0.7);
+    -fx-text-fill: rgba(0,0,0,1);
+    -fx-border-color: black;
+    -fx-font-weight: bold;
+    -fx-font-family: Arial;
+}
+
+.game-tile{
+    -fx-padding: 10px;
+}
+
+/*Contains style from the maze*/
+.maze-tile {
+    -fx-background-color: #0A0A2A;
+}
+
+.maze-tile-solution {
+    -fx-fill: #0A2A22;
+}
+
+/*Contains style from text-area*/
+.text-area {
+    -fx-background-color: rgba(255,255,255,0.7);
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+
+/*Contains style from dialogPane*/
+
+.dialog-pane .content.label {
+    -fx-text-fill:white;
+}
+
+.dialog-pane .header-panel {
+    -fx-background-image: url("../images/background.png");
+}
+
+.dialog-pane .header-panel .label{
+    -fx-text-fill:white;
+}
+
+.dialog-pane > .content.label {
+    -fx-text-fill:white;
+}
+
+.dialog-root {
+    -fx-padding: 40px;
+}

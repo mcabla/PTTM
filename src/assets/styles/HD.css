@@ -1,0 +1,62 @@
+.title {
+    -fx-font-size: 22pt;
+}
+
+/*Contains style from rules*/
+.rules-text{
+    -fx-font-size: 10.5pt;
+}
+
+.rules-title{
+    -fx-font-size: 25pt;
+}
+
+/*Contains style from buttons*/
+.button {
+    -fx-font-size: 12pt;
+}
+
+.start-button{
+    -fx-font-size: 17pt;
+}
+
+.navigation-button{
+    -fx-font-size: 10pt;
+}
+
+.navigation-button{
+    -fx-pref-width: 80px;
+    -fx-pref-height: 25px;
+}
+
+.gamemode-button, .game-tile{
+    -fx-font-size: 17pt;
+}
+/*Contains style from gameinfo*/
+.support-text{
+    -fx-font-size: 15pt;
+    -fx-padding: 15px;
+}
+
+.faults-text, .timer-text{
+    -fx-font-size: 17pt;
+}
+
+.current-text{
+    -fx-font-size: 40px;
+}
+
+.keyboard-labels{
+    -fx-font-size: 20px;
+}
+/*Contains style from dialogPane*/
+.dialogPane {
+    -fx-font-size: 15pt;
+}
+.dialog-root {
+    -fx-font-size: 12pt;
+}
+
+.highscore-button{
+    -fx-font-size: 7pt;
+}
